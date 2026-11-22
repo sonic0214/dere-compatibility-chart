@@ -4,24 +4,24 @@ A 12×12 compatibility chart for anime "dere" types, as open data (CSV).
 
 "Dere" types are character archetypes from anime and manga fandom. Each name joins a trait word with *dere-dere* (Japanese for lovey-dovey) to describe how a character acts toward someone they like: a **tsundere** is prickly first and warm later, a **kuudere** stays calm and flat, a **yandere** is devoted to the point of obsession.
 
-This dataset is the compatibility table behind [DereMatch](https://derematch.com), a free dere type test you can take with a partner. The interactive version of the chart is at **[derematch.com/dere-compatibility-chart](https://derematch.com/dere-compatibility-chart)**.
+This dataset is the compatibility table behind [DereMatch](https://derematch.com?utm_source=github&utm_medium=referral&utm_campaign=open_data), a free dere type test you can take with a partner. The interactive version of the chart is at **[derematch.com/dere-compatibility-chart](https://derematch.com/dere-compatibility-chart?utm_source=github&utm_medium=referral&utm_campaign=open_data)**.
 
 ## The 12 types
 
 | Type | Japanese | In one line | Best matches |
 |---|---|---|---|
-| [Tsundere](https://derematch.com/types/tsundere) | ツンデレ | Prickly on the outside, soft as a marshmallow underneath. | Dandere, Deredere, Undere |
-| [Yandere](https://derematch.com/types/yandere) | ヤンデレ | Sweet, devoted, and maybe just a little too all-in. | Undere, Dandere, Deredere |
-| [Kuudere](https://derematch.com/types/kuudere) | クーデレ | Calm, cool, collected, and secretly paying attention to everything. | Deredere, Bakadere, Hajidere |
-| [Dandere](https://derematch.com/types/dandere) | ダンデレ | Quiet at first, then the sweetest person in the room. | Deredere, Tsundere, Bakadere |
-| [Deredere](https://derematch.com/types/deredere) | デレデレ | Pure sunshine with a heart on both sleeves. | Dandere, Kuudere, Tsundere |
-| [Himedere](https://derematch.com/types/himedere) | ヒメデレ | Royalty in love. Treat them like a princess (or prince) and watch them melt. | Undere, Deredere, Yandere |
-| [Kamidere](https://derematch.com/types/kamidere) | カミデレ | A self-declared god of love who might let you be their chosen one. | Undere, Dandere, Bakadere |
-| [Bakadere](https://derematch.com/types/bakadere) | バカデレ | Lovable chaos. Trips over their own feet and right into your heart. | Kuudere, Dandere, Kamidere |
-| [Undere](https://derematch.com/types/undere) | ウンデレ | Says yes to everything, especially to the one they love. | Kamidere, Himedere, Tsundere |
-| [Mayadere](https://derematch.com/types/mayadere) | マヤデレ | Dangerous, mysterious, and unexpectedly soft for one person only. | Bakadere, Kuudere, Sadodere |
-| [Sadodere](https://derematch.com/types/sadodere) | サドデレ | Teases you mercilessly because you are their favorite person. | Tsundere, Hajidere, Kuudere |
-| [Hajidere](https://derematch.com/types/hajidere) | ハジデレ | Turns bright red the second their crush says hello. | Sadodere, Kuudere, Deredere |
+| [Tsundere](https://derematch.com/types/tsundere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | ツンデレ | Prickly on the outside, soft as a marshmallow underneath. | Dandere, Deredere, Undere |
+| [Yandere](https://derematch.com/types/yandere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | ヤンデレ | Sweet, devoted, and maybe just a little too all-in. | Undere, Dandere, Deredere |
+| [Kuudere](https://derematch.com/types/kuudere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | クーデレ | Calm, cool, collected, and secretly paying attention to everything. | Deredere, Bakadere, Hajidere |
+| [Dandere](https://derematch.com/types/dandere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | ダンデレ | Quiet at first, then the sweetest person in the room. | Deredere, Tsundere, Bakadere |
+| [Deredere](https://derematch.com/types/deredere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | デレデレ | Pure sunshine with a heart on both sleeves. | Dandere, Kuudere, Tsundere |
+| [Himedere](https://derematch.com/types/himedere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | ヒメデレ | Royalty in love. Treat them like a princess (or prince) and watch them melt. | Undere, Deredere, Yandere |
+| [Kamidere](https://derematch.com/types/kamidere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | カミデレ | A self-declared god of love who might let you be their chosen one. | Undere, Dandere, Bakadere |
+| [Bakadere](https://derematch.com/types/bakadere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | バカデレ | Lovable chaos. Trips over their own feet and right into your heart. | Kuudere, Dandere, Kamidere |
+| [Undere](https://derematch.com/types/undere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | ウンデレ | Says yes to everything, especially to the one they love. | Kamidere, Himedere, Tsundere |
+| [Mayadere](https://derematch.com/types/mayadere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | マヤデレ | Dangerous, mysterious, and unexpectedly soft for one person only. | Bakadere, Kuudere, Sadodere |
+| [Sadodere](https://derematch.com/types/sadodere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | サドデレ | Teases you mercilessly because you are their favorite person. | Tsundere, Hajidere, Kuudere |
+| [Hajidere](https://derematch.com/types/hajidere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | ハジデレ | Turns bright red the second their crush says hello. | Sadodere, Kuudere, Deredere |
 
 ## Compatibility chart
 
@@ -55,13 +55,13 @@ In this table scores range from 38 (Yandere × Mayadere) to 94 (Dandere × Dered
 ## How the scores are made
 
 - **Base score (this dataset).** Each pair of types gets a hand-written base score from how their love styles fit: for example, a shy type next to a warm, talkative one scores high; two types that both need control score low. These are editorial judgments, not survey results.
-- **Personal score (on the site).** When two people take the [DereMatch test](https://derematch.com), each gets a profile on eight dimensions (warmth, openness, intensity, shyness, directness, playfulness, dominance, attachment). Their score starts from the base score above and is adjusted by a fixed formula: points for one partner leading and the other following, a direct partner with a shy one, teasing meeting an open heart, and shared warmth; points off when both partners are very intense or need very different amounts of closeness. The method is explained at [derematch.com/how-it-works](https://derematch.com/how-it-works).
+- **Personal score (on the site).** When two people take the [DereMatch test](https://derematch.com?utm_source=github&utm_medium=referral&utm_campaign=open_data), each gets a profile on eight dimensions (warmth, openness, intensity, shyness, directness, playfulness, dominance, attachment). Their score starts from the base score above and is adjusted by a fixed formula: points for one partner leading and the other following, a direct partner with a shy one, teasing meeting an open heart, and shared warmth; points off when both partners are very intense or need very different amounts of closeness. The method is explained at [derematch.com/how-it-works](https://derematch.com/how-it-works?utm_source=github&utm_medium=referral&utm_campaign=open_data).
 
 **For fun, not science.** Dere types are fictional tropes, not a psychological model. Nothing here predicts real relationships.
 
 ## Take the test with your partner
 
-Find your own dere type and see how you match with your crush or partner at **[derematch.com](https://derematch.com)**. Free, no sign-up.
+Find your own dere type and see how you match with your crush or partner at **[derematch.com](https://derematch.com?utm_source=github&utm_medium=referral&utm_campaign=open_data)**. Free, no sign-up.
 
 ## License
 
