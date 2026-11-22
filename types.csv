@@ -1,0 +1,13 @@
+slug,name,japanese,tagline,best_matches,hardest_matches
+tsundere,Tsundere,ツンデレ,"Prickly on the outside, soft as a marshmallow underneath.",dandere;deredere;undere,kamidere;mayadere
+yandere,Yandere,ヤンデレ,"Sweet, devoted, and maybe just a little too all-in.",undere;dandere;deredere,kuudere;mayadere
+kuudere,Kuudere,クーデレ,"Calm, cool, collected, and secretly paying attention to everything.",deredere;bakadere;hajidere,yandere;himedere
+dandere,Dandere,ダンデレ,"Quiet at first, then the sweetest person in the room.",deredere;tsundere;bakadere,sadodere;mayadere
+deredere,Deredere,デレデレ,Pure sunshine with a heart on both sleeves.,dandere;kuudere;tsundere,mayadere
+himedere,Himedere,ヒメデレ,Royalty in love. Treat them like a princess (or prince) and watch them melt.,undere;deredere;yandere,kamidere;kuudere
+kamidere,Kamidere,カミデレ,A self-declared god of love who might let you be their chosen one.,undere;dandere;bakadere,himedere;sadodere
+bakadere,Bakadere,バカデレ,Lovable chaos. Trips over their own feet and right into your heart.,kuudere;dandere;kamidere,sadodere
+undere,Undere,ウンデレ,"Says yes to everything, especially to the one they love.",kamidere;himedere;tsundere,sadodere
+mayadere,Mayadere,マヤデレ,"Dangerous, mysterious, and unexpectedly soft for one person only.",bakadere;kuudere;sadodere,yandere;tsundere
+sadodere,Sadodere,サドデレ,Teases you mercilessly because you are their favorite person.,tsundere;hajidere;kuudere,dandere;undere
+hajidere,Hajidere,ハジデレ,Turns bright red the second their crush says hello.,sadodere;kuudere;deredere,mayadere
