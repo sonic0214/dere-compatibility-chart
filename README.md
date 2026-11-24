@@ -6,22 +6,24 @@ A 12×12 compatibility chart for anime "dere" types, as open data (CSV).
 
 This dataset is the compatibility table behind [DereMatch](https://derematch.com?utm_source=github&utm_medium=referral&utm_campaign=open_data), a free dere type test you can take with a partner. The interactive version of the chart is at **[derematch.com/dere-compatibility-chart](https://derematch.com/dere-compatibility-chart?utm_source=github&utm_medium=referral&utm_campaign=open_data)**.
 
+Longer guides: [kuudere meaning](https://derematch.com/types/kuudere?utm_source=github&utm_medium=referral&utm_campaign=open_data), [dandere vs kuudere](https://derematch.com/types/dandere?utm_source=github&utm_medium=referral&utm_campaign=open_data), [deredere meaning](https://derematch.com/types/deredere?utm_source=github&utm_medium=referral&utm_campaign=open_data); all 12 types are summarised at [derematch.com/dere-types](https://derematch.com/dere-types?utm_source=github&utm_medium=referral&utm_campaign=open_data).
+
 ## The 12 types
 
 | Type | Japanese | In one line | Best matches |
 |---|---|---|---|
-| [Tsundere](https://derematch.com/types/tsundere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | ツンデレ | Prickly on the outside, soft as a marshmallow underneath. | Dandere, Deredere, Undere |
-| [Yandere](https://derematch.com/types/yandere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | ヤンデレ | Sweet, devoted, and maybe just a little too all-in. | Undere, Dandere, Deredere |
+| Tsundere | ツンデレ | Prickly on the outside, soft as a marshmallow underneath. | Dandere, Deredere, Undere |
+| Yandere | ヤンデレ | Sweet, devoted, and maybe just a little too all-in. | Undere, Dandere, Deredere |
 | [Kuudere](https://derematch.com/types/kuudere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | クーデレ | Calm, cool, collected, and secretly paying attention to everything. | Deredere, Bakadere, Hajidere |
 | [Dandere](https://derematch.com/types/dandere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | ダンデレ | Quiet at first, then the sweetest person in the room. | Deredere, Tsundere, Bakadere |
 | [Deredere](https://derematch.com/types/deredere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | デレデレ | Pure sunshine with a heart on both sleeves. | Dandere, Kuudere, Tsundere |
-| [Himedere](https://derematch.com/types/himedere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | ヒメデレ | Royalty in love. Treat them like a princess (or prince) and watch them melt. | Undere, Deredere, Yandere |
-| [Kamidere](https://derematch.com/types/kamidere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | カミデレ | A self-declared god of love who might let you be their chosen one. | Undere, Dandere, Bakadere |
-| [Bakadere](https://derematch.com/types/bakadere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | バカデレ | Lovable chaos. Trips over their own feet and right into your heart. | Kuudere, Dandere, Kamidere |
-| [Undere](https://derematch.com/types/undere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | ウンデレ | Says yes to everything, especially to the one they love. | Kamidere, Himedere, Tsundere |
-| [Mayadere](https://derematch.com/types/mayadere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | マヤデレ | Dangerous, mysterious, and unexpectedly soft for one person only. | Bakadere, Kuudere, Sadodere |
-| [Sadodere](https://derematch.com/types/sadodere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | サドデレ | Teases you mercilessly because you are their favorite person. | Tsundere, Hajidere, Kuudere |
-| [Hajidere](https://derematch.com/types/hajidere?utm_source=github&utm_medium=referral&utm_campaign=open_data) | ハジデレ | Turns bright red the second their crush says hello. | Sadodere, Kuudere, Deredere |
+| Himedere | ヒメデレ | Royalty in love. Treat them like a princess (or prince) and watch them melt. | Undere, Deredere, Yandere |
+| Kamidere | カミデレ | A self-declared god of love who might let you be their chosen one. | Undere, Dandere, Bakadere |
+| Bakadere | バカデレ | Lovable chaos. Trips over their own feet and right into your heart. | Kuudere, Dandere, Kamidere |
+| Undere | ウンデレ | Says yes to everything, especially to the one they love. | Kamidere, Himedere, Tsundere |
+| Mayadere | マヤデレ | Dangerous, mysterious, and unexpectedly soft for one person only. | Bakadere, Kuudere, Sadodere |
+| Sadodere | サドデレ | Teases you mercilessly because you are their favorite person. | Tsundere, Hajidere, Kuudere |
+| Hajidere | ハジデレ | Turns bright red the second their crush says hello. | Sadodere, Kuudere, Deredere |
 
 ## Compatibility chart
 
